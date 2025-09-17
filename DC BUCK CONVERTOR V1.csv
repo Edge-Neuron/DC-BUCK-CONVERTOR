@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J1";"Altech_AK100_1x02_P5.00mm";2;"Screw_Terminal_01x02";;;
+2;"L1";"L_1206_3216Metric";1;"L";;;
+3;"U1";"SOT-23-6";1;"LMR51430";;;
+4;"R2,R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"R";;;
+5;"C6,C2";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";2;"22u";;;
+6;"C5";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";1;"0.1u";;;
+7;"C4";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"0.1u";;;
+8;"C3,C1";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";2;"47u";;;
